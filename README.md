@@ -1,2 +1,2 @@
 # download_vc
-download classes
+download classes in url:vc.sharif.edu/ch/....
